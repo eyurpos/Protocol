@@ -8,7 +8,7 @@ The data link layer is the second layer from the bottom in the OSI (Open System 
 - Also responsible for encoding, decoding, and organizing the outgoing and incoming data.
 - Considered as the most complex layer of the OSI model as it hides all the underlying complexities of the hardware from the other above layers. 
 
-![0](./images/phy2.webp)
+![0](./images/data.webp)
 
 ## Sub-Layers of The Data Link Layer
 The data link layer is further divided into two sub-layers, which are as follows:
