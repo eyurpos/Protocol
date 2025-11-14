@@ -100,7 +100,7 @@ https://www.geeksforgeeks.org/computer-networks/dynamic-host-configuration-proto
 
 > traceroute
 
-## 3. Transport Layer
+## 4. Transport Layer
 The transport layer provides services to the application layer and takes services from the network layer. The data in the transport layer is referred to as Segments. It is responsible for the end-to-end delivery of the complete message. The transport layer also provides the acknowledgment of the successful data transmission and re-transmits the data if an error is found.
 
 ### TCP
